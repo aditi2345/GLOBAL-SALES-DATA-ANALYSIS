@@ -31,7 +31,7 @@ This Power BI dashboard provides a comprehensive analysis of global sales perfor
 ## Getting Started
 
 1. **Requirements**: To view or modify this dashboard, you will need Microsoft Power BI Desktop.
-2. **Data Source**: The dashboard connects to internal sales databases, customer demographic data, and external regional sales data to ensure comprehensive analysis. Use file 'global_superstore_2016.xlsx' for data source
+2. **Data Source**: The dashboard connects to internal sales databases, customer demographic data, and external regional sales data to ensure comprehensive analysis. Use file 'Data.xlsx' for data source
 
 ## Usage
 
